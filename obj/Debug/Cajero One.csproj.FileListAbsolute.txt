@@ -1,0 +1,10 @@
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cajero.resources
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\Cajero One.csproj.GenerateResource.Cache
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\Cajero One.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ReClientes.resources
